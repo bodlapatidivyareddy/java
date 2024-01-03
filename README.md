@@ -9,7 +9,6 @@ public class Main {
         System.out.println("\tWelcome to TheDesk \n");
         System.out.println("**************************************");
         optionsSelection();
-
     }
     private static void optionsSelection() {
         String[] arr = {"1. I wish to review my expenditure",
